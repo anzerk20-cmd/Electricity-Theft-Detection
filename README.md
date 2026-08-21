@@ -1,5 +1,12 @@
 # Electricity-Theft-Detection
 A Data-Driven Framework for Non-Technical Loss Detection in Smart Distribution Networks
+
+Dataset
+
+This project uses the SGCC (State Grid Corporation of China) Electricity Theft Detection Dataset, which contains electricity consumption data used for detecting abnormal consumption and potential electricity theft.
+
+Dataset Source: SGCC Electricity Theft Dataset – Kaggle 
+Dataset link: https://www.kaggle.com/datasets/bensalem14/sgcc-dataset
 ## Project Overview
 
 Electricity theft is a major source of non-technical losses (NTLs) for power distribution companies, leading to financial losses, grid instability, and increased operational costs. Traditional detection methods based on manual inspections and fixed rules are difficult to scale and may fail to identify complex theft patterns.
