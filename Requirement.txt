@@ -1,0 +1,27 @@
+# Numerical computing and array operations
+Numpy
+
+# Data manipulation, cleaning, aggregation, and feature engineering
+Pandas
+
+# Machine learning algorithms, preprocessing, model evaluation, and cross-validation
+# Includes Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, etc.
+Scikit-learn
+
+# Handling imbalanced classification datasets using SMOTE
+imbalanced-learn
+
+# XGBoost gradient boosting algorithm for advanced classification
+XGBoost
+
+# Data visualization and plotting
+Matplotlib
+
+# Statistical visualization and exploratory data analysis
+Seaborn
+
+# Explainable AI using SHAP values and model interpretation
+Shap
+
+# Jupyter Notebook environment for running the ML workflow
+Jupyter
